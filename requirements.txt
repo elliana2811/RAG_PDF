@@ -1,0 +1,36 @@
+# Web & API
+fastapi
+uvicorn
+pydantic
+
+# Database & Hàng đợi
+motor
+redis
+qdrant-client
+
+# Storage (MinIO/S3)
+boto3
+botocore
+
+# PDF & Xử lý hình ảnh
+pypdf
+pdf2image
+Pillow
+markitdown
+
+# Chunking & Semantic
+langchain-core
+langchain-text-splitters
+langchain-experimental
+
+# AI & Embeddings
+openai
+google-generativeai
+fastembed
+rank-bm25
+httpx
+
+# Utilities
+ulid-py
+pandas
+python-multipart
